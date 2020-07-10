@@ -1,17 +1,17 @@
 h1 {
-  color:blue;
-  text-align:center;
+  color:green;
+  text-align:left;
 }
 h2 {
-  color:green;
+  color:blue;
   font-stle:italic;
-  text-align:center;
+  text-align: left;
 }
 p {
   font-family:sans-serif;
-  text-align: center;
+
 }
 ul {
-  line-height:40px;
+  line-height:20px;
   align: center;
 }
